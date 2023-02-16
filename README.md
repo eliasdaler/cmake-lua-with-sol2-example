@@ -6,7 +6,7 @@ Also see: https://edw.is/using-lua-with-cpp/
 
 * git
 * CMake 3.18+
-* A compiler which can compiler C++17 (and later)
+* A compiler which can compile C++17 (and later)
 
 # How-to
 
