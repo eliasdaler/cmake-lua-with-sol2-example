@@ -1,3 +1,6 @@
 [submodule "third_party/sol2"]
 	path = third_party/sol2
 	url = https://github.com/ThePhD/sol2
+[submodule "third_party/lua"]
+	path = third_party/lua
+	url = https://github.com/lua/lua
